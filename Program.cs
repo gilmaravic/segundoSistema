@@ -15,6 +15,7 @@ namespace segundoSistema
             string texto = "O Empreenda Senac é uma grande \"Oportunidade\" de adquirir conhecimento .";
             Console.WriteLine(texto);
 
+            Console.WriteLine(texto);
 
 
 
